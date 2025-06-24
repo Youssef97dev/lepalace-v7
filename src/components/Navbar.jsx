@@ -200,7 +200,7 @@ const Navbar = () => {
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
                   <Link href="https://palace-menu.vercel.app/" target="_blank">
-                    {t("navbar.cart")}
+                    {t("navbar.menu")}
                   </Link>
                 </li>
                 <li className="pb-3 border-b border-bg_navbar">
