@@ -8,8 +8,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        primary: "var(--primary)",
         background: "var(--background)",
-        foreground: "var(--foreground)",
+        secondary: "var(--secondary)",
+        secondary_50: "var(--secondary-50)",
+      },
+      fontFamily: {
+        azahra: ["Azahra", "sans-serif"],
       },
     },
   },
